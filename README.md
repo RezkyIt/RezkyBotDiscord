@@ -23,8 +23,8 @@ enter star😅
 
 [![IMG-20230224-174626.jpg](https://i.postimg.cc/x1WpVCvC/IMG-20230224-174626.jpg)](https://postimg.cc/18rrpyYh)
 
-[![IMG-20230224-174642.jpg](https://i.postimg.cc/BbZfPgnt/IMG-20230224-174642.jpg)](https://postimg.cc/S2Pvwc8p)
 
-[![IMG-20230224-174649.jpg](https://i.postimg.cc/SKyWYYpj/IMG-20230224-174649.jpg)](https://postimg.cc/LJbqrX5M)
+
+
 
 # please don't attack website .gov .edu
