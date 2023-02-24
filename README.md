@@ -18,3 +18,8 @@ command discord bot
 
 [![IMG-20230224-174609.jpg](https://i.postimg.cc/QtKQqk9x/IMG-20230224-174609.jpg)](https://postimg.cc/r0cRV4Nv)
 
+[![IMG-20230224-174626.jpg](https://i.postimg.cc/x1WpVCvC/IMG-20230224-174626.jpg)](https://postimg.cc/18rrpyYh)
+
+[![IMG-20230224-174642.jpg](https://i.postimg.cc/BbZfPgnt/IMG-20230224-174642.jpg)](https://postimg.cc/S2Pvwc8p)
+
+[![IMG-20230224-174649.jpg](https://i.postimg.cc/SKyWYYpj/IMG-20230224-174649.jpg)](https://postimg.cc/LJbqrX5M)
