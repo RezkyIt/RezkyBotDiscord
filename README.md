@@ -27,4 +27,4 @@ enter star😅
 
 [![IMG-20230224-174649.jpg](https://i.postimg.cc/SKyWYYpj/IMG-20230224-174649.jpg)](https://postimg.cc/LJbqrX5M)
 
-# for educational purposes only
+# please don't attack website .gov .edu
