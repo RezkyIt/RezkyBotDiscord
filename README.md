@@ -1,4 +1,4 @@
-# RezkyBotDdos
+# RezkyBotDiscord
 
 
 pls don't recode i create it 20 hours;)
