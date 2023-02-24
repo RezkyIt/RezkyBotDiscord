@@ -23,3 +23,5 @@ command discord bot
 [![IMG-20230224-174642.jpg](https://i.postimg.cc/BbZfPgnt/IMG-20230224-174642.jpg)](https://postimg.cc/S2Pvwc8p)
 
 [![IMG-20230224-174649.jpg](https://i.postimg.cc/SKyWYYpj/IMG-20230224-174649.jpg)](https://postimg.cc/LJbqrX5M)
+
+# for educational purposes only
