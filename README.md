@@ -14,6 +14,9 @@ command discord bot
 .geoip
 .mcbot
 
+# Description
+this script someone else's got it and I just edited it and added the method too.
+enter star😅
 # Screenshot
 
 [![IMG-20230224-174609.jpg](https://i.postimg.cc/QtKQqk9x/IMG-20230224-174609.jpg)](https://postimg.cc/r0cRV4Nv)
