@@ -3,7 +3,7 @@
 
 pls don't recode i create it 20 hours;)
 
-change token in ayarlar.json
+change token in bot.js
 copy channel for attack
 and change room-id to you id channel
 and run node bot.js
