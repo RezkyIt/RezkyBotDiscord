@@ -15,7 +15,7 @@ command discord bot
 .mcbot
 
 # Description
-I don't know
+I don't know, click star:))
 
 # Screenshot
 
