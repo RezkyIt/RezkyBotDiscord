@@ -29,3 +29,5 @@ I don't know, click star:))
 
 # please don't attack website .gov .edu
 # DDoS Is illegal
+# Downloads
+Wait
